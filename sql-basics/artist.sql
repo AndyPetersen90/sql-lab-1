@@ -16,4 +16,3 @@ WHERE artist_name LIKE 'Black%';
 
 SELECT * FROM artists
 WHERE artist_name LIKE '%Black%';
-
